@@ -1,6 +1,10 @@
 # Attendance App
 
-newsapp developed with GetX state manegement.
+
+
+https://github.com/durra88/aldardaa_attandence_app_main/assets/31691963/7d374466-1c31-4b7d-bc8f-88ed180667d7
+
+
 
 ### inorder to start:-
 -  download the project
